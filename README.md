@@ -33,7 +33,7 @@ From **breaking applications to find vulnerabilities** to **building SOC detecti
 ---
 
 ## 📊 GitHub Stats  
-![Purna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)  
+![Purna's GitHub stats]
  
 ---
 
