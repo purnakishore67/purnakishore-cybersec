@@ -9,28 +9,44 @@ From **breaking applications to find vulnerabilities** to **building SOC detecti
 
 ---
 
-## 🚀 Skills & Tools  
-![Linux]  
-![Burp Suite] 
-![Wireshark] 
-![Splunk] 
-![Snort] 
-![Wazuh] 
-![Metasploit]  
-![Git]  
-
----
-
 ## 📂 Featured Projects  
 
-🔸 **[OWASP Top 10 Penetration Testing](#)** – Exploiting Juice Shop & documenting vulnerabilities  
-🔸 **[Malware Analysis Lab](#)** – Static & dynamic analysis with IOC extraction  
-🔸 **[SOC & SIEM Project](#)** – Wazuh/Splunk setup detecting brute force attacks  
-🔸 **[Snort IDS/IPS Project](#)** – Real-time detection & mitigation using Fail2Ban + Snort 3   
-
-*(Click on each repo for details & documentation.)*  
+- 💻 Experienced in **penetration testing (OWASP Top 10, SQLi, XSS, Broken Auth, etc.)**  
+- 🧑‍💻 Hands-on with **vulnerable applications (OWASP Juice Shop, DVWA, bWAPP, Metasploitable)**  
+- 🛡️ Built **IDS/IPS labs using Snort + Fail2Ban + Suricata + pfSense**  
+- 📊 Developed SOC projects with **Wazuh, Splunk, ELK, and AWS GuardDuty**  
+- 🔬 Practicing **static & dynamic malware analysis with Ghidra, Wireshark, and YARA**
+- ### ☁️ AWS Cloud Hardening & Monitoring Project - A hands-on project to secure and monitor a cloud environment based on AWS Well-Architected Framework principles.
+- - 🎓 Google Cybersecurity Certificate Graduate & Certified with CompTIA Security+
+- 🌍 Open-source security learner, sharing my work here on GitHub  
 
 ---
+## 🛠️ Cybersecurity Toolkit
+
+### 🔍 **Web Application Testing**
+Burp Suite ∙ SQLMap ∙ Nmap ∙ Wireshark ∙ Nikto ∙ OWASP ZAP ∙ Subfinder ∙ Wappalyzer
+
+
+### 🛡️ **Defense & Monitoring**
+Splunk ∙ Wazuh ∙ ELK Stack ∙ Snort ∙ Suricata ∙ CloudWatch ∙ GuardDuty ∙ pfSense
+
+
+### ⚔️ **Offensive Security**
+Metasploit ∙ Ghidra ∙ Hashcat ∙ John the Ripper ∙ Hydra ∙ YARA ∙ Process Monitor
+
+### 🎓 **Training & Labs**
+OWASP Juice Shop ∙ DVWA ∙ bWAPP ∙ Metasploitable ∙ TryHackMe ∙ Kali Linux  .Ubuntu
+
+### ☁️ **Cloud Security & Hardening (AWS)**
+IAM ∙ Security Hub ∙ GuardDuty ∙ AWS Config ∙ CloudTrail ∙ WAF ∙ KMS ∙ Inspector ∙ CloudWatch
+
+### 👨‍💻 **Active Directory & Enterprise**
+BloodHound ∙ Impacket ∙ PowerShell AD Module ∙ Kerbrute ∙ Mimikatz ∙ PowerView ∙ Responder
+
+
+### 🗄️ **Databases & Core Skills**
+MySQL ∙ PostgreSQL ∙ MongoDB ∙ Python ∙ Linux ∙ SQL ∙ Bash ∙ PowerShell
+
 
 ## 🏅 Certifications
 
