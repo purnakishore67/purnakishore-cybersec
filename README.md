@@ -53,7 +53,6 @@ MySQL ∙ PostgreSQL ∙ MongoDB ∙ Python ∙ Linux ∙ SQL ∙ Bash ∙ Power
 ### CompTIA Security+ (Plus Series)
 <img src="CompTIA_Security_Plus_Badge.png" alt="CompTIA Security+ Badge" width="120"/>
 - **Candidate ID:** COMP001022841178
-- **Certification Date:** July 08, 2025
 - **Expiration Date:** July 08, 2028
 - [Download PDF Certificate](CompTIA_Security_Plus_Certificate.pdf)
 
@@ -61,7 +60,6 @@ MySQL ∙ PostgreSQL ∙ MongoDB ∙ Python ∙ Linux ∙ SQL ∙ Bash ∙ Power
 
 ### Google Cybersecurity Professional Certificate
 <img src="Google_Cybersecurity_Certificate.png" alt="Google Cybersecurity Certificate" width="380"/>
-- **Issued:** March 26, 2025
 - [Coursera Share Link](https://coursera.org/share/dc01ccfe118d99bd30aa0783bb93d023)
 - [Verify Certificate](https://coursera.org/verify/professional-cert/8MEKGDW7KWCX)
 
